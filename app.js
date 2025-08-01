@@ -4,7 +4,7 @@ import bodyParser from 'body-parser';
 import dotenv from 'dotenv';
 import router from './routes/userRoutes.js';
 
-// hogaya bhai ho gaya 
+// kuch configurations kare hai brother 
 
 dotenv.config();
 const app = express();
